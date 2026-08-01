@@ -1,8 +1,27 @@
 aid: ping-an-healthkonnect
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ping-an-healthkonnect.png
 name: Ping An HealthKonnect
-description: 'Ping An HealthKonnect is a company surfaced as a portfolio company of softbank-vision-fund
-  and added to the API Evangelist network as a stub for enrichment. Sector: health-tech. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: 'Ping An HealthKonnect (Ping An Healthcare Technology), founded in September 2016 and
+  headquartered in Shanghai, is a technology-driven managed care platform in China. As an AI-powered
+  big data platform it brings together patients with providers of health insurance and medical
+  services, offering budget planning, precision healthcare, medical health-care accounts, medical
+  resources management, health records, and fraud/abuse detection to optimize healthcare spending.
+  The platform covers roughly 70% of Chinese cities and a market of some 800 million people, and has
+  raised about USD 1.15 billion backed by SoftBank Vision Fund, IDG Capital, and others. It is a B2B
+  and government-facing enterprise platform with no public developer API surface; this profile was
+  surfaced as a SoftBank Vision Fund portfolio company and added to the API Evangelist network for
+  enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/ping-an-healthkonnect/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +31,23 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Health Tech
+- Managed Care
+- Health Insurance
+- Healthcare
+- Artificial Intelligence
+- China
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
