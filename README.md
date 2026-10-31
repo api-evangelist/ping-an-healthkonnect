@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ping An HealthKonnect is a company surfaced as a portfolio company of softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: health-tech. This profile is a lead awaiting the enrichment pipeline.
+Ping An HealthKonnect (Ping An Healthcare Technology), founded in September 2016 and headquartered in Shanghai, is a technology-driven managed care platform in China. As an AI-powered big data platform it brings together patients with providers of health insurance and medical services, offering budget planning, precision healthcare, medical health-care accounts, medical resources management, health records, and fraud/abuse detection to optimize healthcare spending. The platform covers roughly 70% of Chinese cities and a market of some 800 million people, and has raised about USD 1.15 billion backed by SoftBank Vision Fund, IDG Capital, and others. It is a B2B and government-facing enterprise platform with no public developer API surface; this profile was surfaced as a SoftBank Vision Fund portfolio company and added to the API Evangelist network for enrichment.
 
-Backed by: softbank-vision-fund
+**Areas:** Company · Health Tech · Managed Care · Health Insurance · Healthcare · Artificial Intelligence · China
+
+## Ping An HealthKonnect on APIs.io
+
+Everything profiled for Ping An HealthKonnect is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ping-an-healthkonnect/](https://apis.io/providers/ping-an-healthkonnect/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ping An HealthKonnect: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ping-an-healthkonnect/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
